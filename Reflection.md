@@ -17,3 +17,7 @@ I used Claude as a tutor instead of a simple answer key. After every new concept
 ## What I'd do differently
 
 I think that reading the chapter mentioned above *alongside* the conversation with Claude would help as I could fact-check more frequently and not just at the end. I would also explain each idea in my own words before asking for the next one; though the questions that I worked through helped in a way analogous to this, explaining the concepts to myself may have been even better!
+
+## Permalink to Conversation
+
+https://claude.ai/share/bf43dbbb-e172-4ee9-8865-3563d818dc9e
